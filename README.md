@@ -37,6 +37,22 @@ Live grammar help for the DSH composer, plus a one-click prompt polish.
   (0.3–10), plus the character thresholds, language, prompt style, and an optional
   provider/model override.
 
+## Install
+
+Not on npm yet — install it as a local bundle:
+
+```sh
+git clone https://github.com/evertahumanics/dsh-composer-coach.git
+```
+
+Then either open **Plugins → Add plugin** in DSH and choose the cloned folder, or
+install the absolute directory with the plugin manager target
+`/path/to/dsh-composer-coach`. Reload the window afterwards.
+
+Requires DSH `>=0.2.2-rc.3 <0.3.0-0` and a model route configured in the profile.
+The plugin uses the profile's default model until you set a provider and model in
+**Settings → Composer coach**.
+
 ## Three independent switches
 
 | Enabled | Live checks | Preview before sending | Result |
