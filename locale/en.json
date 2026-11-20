@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Composer coach",
+    "description": "Checks the composer a configurable pause after you stop typing and offers word-by-word grammar fixes, plus a one-click Polish prompt action. The draft is sent to the configured model provider.",
+    "detail": "docs/DETAIL.md"
+  }
+}

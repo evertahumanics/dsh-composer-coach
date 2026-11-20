@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Composer coach",
+    "description": "Memeriksa kolom pesan setelah Anda berhenti mengetik selama jeda yang bisa diatur, lalu menawarkan perbaikan tata bahasa per kata, ditambah tombol Polish prompt. Draf dikirim ke penyedia model yang dikonfigurasi.",
+    "detail": "docs/DETAIL.md"
+  }
+}

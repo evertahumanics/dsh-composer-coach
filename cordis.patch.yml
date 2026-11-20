@@ -1,0 +1,12 @@
+- insert:
+    - id: composer-coach
+      name: 'dsh-composer-coach'
+      config:
+        enabled: true
+        delayMs: 1000
+        minChars: 12
+        maxChars: 6000
+        language: auto
+        provider: ''
+        model: ''
+        polishTone: concise
